@@ -5,7 +5,7 @@ Exercícios resolvidos da plataforma NEPS Academy
 ## 📈 Progresso
 
 ### **Linguagem C**
-- [ ] Exercícios:
+- [ ] Exercícios: 11
 
 ### **Linguagem C++**
 - [ ] Exercícios: 
