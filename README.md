@@ -14,3 +14,8 @@ Exercícios resolvidos da plataforma NEPS Academy
 - [ ] Exercícios
 
 ## 🗂️ Estrutura do Repositório
+NEPS/
+├── 📁 C/
+├── 📁 Java/
+├── 📁 C++/
+├── 📄 README.md
